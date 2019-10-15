@@ -1,4 +1,4 @@
-# Delimitation of Functional Regions and Planning Regions
+# Delineation of Functional Regions and Planning Regions
 
 ## About
 This is a plugin for OpenJUMP in order to form functional and plan regions by using FRGIS algorithm developed by Burak Beyhan (2019) for commuting or similar flow data. Cite as
