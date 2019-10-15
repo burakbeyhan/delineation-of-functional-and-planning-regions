@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="lib" path="C:/Program Files/OpenJUMP-1.14.1-r6147-PLUS/lib/jts-core-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/OpenJUMP-1.14.1-r6147-PLUS/lib/OpenJUMP-1.14.1-r6147-nosrc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/OpenJUMP-1.14.1-r6147-PLUS/lib/ext/dans-dbf-lib-1.0.0-beta-10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
