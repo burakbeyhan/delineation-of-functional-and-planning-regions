@@ -122,7 +122,7 @@ public class FunctionalRegionsPlugIn extends AbstractPlugIn{
 		 		"Further explanations can be found in the following paper and guide:" + '\n' + '\n' + 
 		 		"BEYHAN, B. (2019): The delimitation of planning regions on the basis of functional regions: An algorithm and its implementation in Turkey. " +
 		 		"Moravian Geographical Reports, 27(1): 15-30."  + '\n' + '\n' + 
-		 		"BEYHAN, B. (2019): A simple user’s guide for Functional Regionalisation Plugin. Available on line at https://github.com/burakbeyhan/delimitation-of-functional-and-planning-regions");
+		 		"BEYHAN, B. (2019): A simple userâ€™s guide for Functional Regionalisation Plugin. Available on line at https://github.com/burakbeyhan/delineation-of-functional-and-planning-regions");
 
      JComboBox BSU_layer = dialog.addLayerComboBox("Spatial data:", context.getCandidateLayer(0), "please select a polygon layer", context.getLayerManager());
      BSU_layer.setPreferredSize(new Dimension(96, 20));
@@ -153,7 +153,7 @@ public class FunctionalRegionsPlugIn extends AbstractPlugIn{
 	 dialog.addIntegerField("Maximum GGD (GT):", 3, 11, "Graph Theoretical Geodesic Distance (GGD) threshold (GT)");  
 	 dialog.addDoubleField("Minimum CL (CT):", 3.0, 11, "commuting threshold (CT)");
 	 dialog.addIntegerField("Number of Iterations (IT):", 3, 11, "iteration threshold (IT)");  
-	 dialog.addIntegerField("Maximum Area of a FR (AT):", 40000,11, "area threshold (AT) in km²").setEnabled(false);;  
+	 dialog.addIntegerField("Maximum Area of a FR (AT):", 40000,11, "area threshold (AT) in kmÂ²").setEnabled(false);;  
 
 	 dialog.addLabel(" ");
 
